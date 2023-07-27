@@ -1,12 +1,6 @@
 {
-  "name": "yenracuya/rtf-html-php",
+  "name": "henck/rtf-html-php",
   "description": "RTF to HTML converter in PHP",
-  "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/yenracuya05/rtf-html-php.git"
-    }
-],
   "keywords": ["rtf", "converter"],
   "type": "library",
   "version": "1.2",
@@ -15,10 +9,6 @@
     {
       "name": "Alexander van Oostenrijk",
       "email": "alex.vanoostenrijk@gmail.com"
-    },
-    {
-      "name": "Julienne Camille Racuya",
-      "email": "jcjracuya@gmail.com"
     }
   ],
   "scripts": {
@@ -27,8 +17,7 @@
     ]
   },
   "require": {
-    "ext-mbstring": "*",
-    "yenracuya/rtf-html-php": "dev-master"
+    "ext-mbstring": "*"
   },
   "autoload": {
     "psr-4": {
