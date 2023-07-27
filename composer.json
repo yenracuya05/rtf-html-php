@@ -1,5 +1,5 @@
 {
-  "name": "yenracuya/rtf-html-php",
+  "name": "parser/rtf-html-php",
   "description": "RTF to HTML converter in PHP",
   "keywords": ["rtf", "converter"],
   "type": "library",
