@@ -42,7 +42,7 @@ $formatter = new HtmlFormatter('UTF-8');
 ## Install via Composer
 
 ```shell
-composer require henck/rtf-to-html
+composer require parser/rtf-html-php
 ```
 
 ## Caveats
